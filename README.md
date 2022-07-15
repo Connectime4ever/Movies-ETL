@@ -6,16 +6,16 @@ The automated pipeline that should be created will take in new data, perform the
 
 ## Results
 #### ***ETL Function to Read Three Data Files***
-![D1]()
-![df11]()
-![df12]()
-![df13]()
+![D1](https://github.com/Connectime4ever/Movies-ETL/blob/main/D1.png)
+![df11](https://github.com/Connectime4ever/Movies-ETL/blob/main/df11.png)
+![df12](https://github.com/Connectime4ever/Movies-ETL/blob/main/df12.png)
+![df13](https://github.com/Connectime4ever/Movies-ETL/blob/main/df13.png)
 #### ***Extract and Transform the Wikipedia Data***
-![df21]()
-![df22]()
+![df21](https://github.com/Connectime4ever/Movies-ETL/blob/main/df21.png)
+![df22](https://github.com/Connectime4ever/Movies-ETL/blob/main/df22.png)
 #### ***Extract and Transform Kaggle Data***
-![df31]()
-![df32]()
+![df31](https://github.com/Connectime4ever/Movies-ETL/blob/main/df31.png)
+![df32](https://github.com/Connectime4ever/Movies-ETL/blob/main/df32.png)
 #### ***Create the Movie Database***
 ![Q41]()
 ![Q42]()
