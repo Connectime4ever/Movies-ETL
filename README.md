@@ -17,5 +17,5 @@ The automated pipeline that should be created will take in new data, perform the
 ![df31](https://github.com/Connectime4ever/Movies-ETL/blob/main/df31.png)
 ![df32](https://github.com/Connectime4ever/Movies-ETL/blob/main/df32.png)
 #### ***Create the Movie Database***
-![Q41]()
-![Q42]()
+![movies_query](https://github.com/Connectime4ever/Movies-ETL/blob/main/Resources/movies_query.png.png)
+![ratings_query](https://github.com/Connectime4ever/Movies-ETL/blob/main/Resources/ratings_query.png.png)
